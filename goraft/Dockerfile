@@ -20,3 +20,11 @@ COPY entry.sh /app/entry.sh
 RUN chmod +x /app/entry.sh
 
 CMD ["/app/entry.sh"]
+
+# ghcreate GoRafting
+# git init -b main
+# git add .
+# git commit -m "Init Commit"
+# git remote add origin 
+# git remote add origin git@github.com:Chinmay337/GoRafting.git 
+# git push -u origin main
